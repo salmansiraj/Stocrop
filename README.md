@@ -2,6 +2,8 @@
 
 Social Media app to share pictures with other users
 
+[![Demo Stocrop](https://j.gifs.com/ROYlzY.gif)](https://www.youtube.com/watch?v=cgw_ig-MlmE)
+
 ## Current 
 * Set up AWS EC2 instance 
 * Cocoa pods to install server
