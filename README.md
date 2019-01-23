@@ -2,7 +2,6 @@
 
 Social Media app to share pictures with other users
 
-#### Click to see App Walkthrough
 [![Demo Stocrop](https://j.gifs.com/VApvBo.gif)](https://www.youtube.com/watch?v=cgw_ig-MlmE)
 
 ## Current 
